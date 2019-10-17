@@ -13,9 +13,9 @@ tar -zxvf splice_odbc_linux64-2.7.62.0.tar.gz
 # Install package
 cd splice_odbc_linux64-2.7.62.0; ./install.sh
 
-# Edit odbc.ini file 
-# enter > set URL = [LongDB's IP] > enter
-# or change at /tmp/splice_odbc_linux64-2.7.62.0/odbc.ini
+# enter >> set URL = [LongDB's IP] >> enter
+
+# or Edit odbc.ini file 
 nano /tmp/splice_odbc_linux64-2.7.62.0/odbc.ini
 # URL = 127.0.0.1 change to LongDB's IP
 ```
