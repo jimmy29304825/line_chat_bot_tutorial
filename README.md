@@ -1,4 +1,12 @@
 # line_chat_bot_tutorial
+## setup line_chat_bot
+```sh
+git clone https://github.com/jimmy29304825/line_chat_bot_tutorial.git
+cd line_chat_bot_tutorial
+sh build.sh
+sh start.sh
+# check the url which system gives you and put in line designer
+```
 ## Jupyter Notebook connect LongDB(using ODBC package)
 ```sh
 # Enter to jupyter's container
