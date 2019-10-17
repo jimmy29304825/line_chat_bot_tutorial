@@ -1,5 +1,5 @@
 # line_chat_bot_tutorial
-## setup line_chat_bot
+## Setup line_chat_bot enviorment(jupyter and ngrok web server)
 ```sh
 git clone https://github.com/jimmy29304825/line_chat_bot_tutorial.git
 cd line_chat_bot_tutorial
